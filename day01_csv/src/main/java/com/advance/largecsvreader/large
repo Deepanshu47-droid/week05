@@ -1,0 +1,23 @@
+ID,FirstName,LastName,Age,Grade,Gender,Course,City
+1,John,Doe,21,A,Male,Computer Science,Boston
+2,Jane,Smith,22,B,Female,Mathematics,Chicago
+3,Michael,Johnson,20,A,Male,Physics,Los Angeles
+4,Emily,Williams,23,C,Female,Chemistry,Miami
+5,David,Brown,22,B,Male,Engineering,New York
+6,Sarah,Jones,21,A,Female,Biology,San Francisco
+7,James,Garcia,20,A,Male,Computer Science,Seattle
+8,Maria,Martinez,22,C,Female,Mathematics,Dallas
+9,Robert,Lee,21,B,Male,Physics,Chicago
+10,Laura,Walker,23,A,Female,Chemistry,Miami
+11,William,Hall,20,C,Male,Engineering,Boston
+12,Olivia,Allen,22,A,Female,Biology,New York
+13,Daniel,Young,21,B,Male,Computer Science,Los Angeles
+14,Isabella,King,23,A,Female,Mathematics,San Francisco
+15,Liam,Hernandez,20,A,Male,Physics,Seattle
+16,Ava,Gonzalez,21,B,Female,Chemistry,Miami
+17,Ethan,Lopez,22,C,Male,Engineering,Chicago
+18,Sophia,Scott,21,A,Female,Biology,Dallas
+19,Jackson,Green,20,B,Male,Computer Science,Boston
+20,Charlotte,Adams,23,A,Female,Mathematics,Los Angeles
+...
+1000,Emily,Reed,21,B,Female,Physics,Seattle
