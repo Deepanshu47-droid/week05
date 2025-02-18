@@ -1,0 +1,21 @@
+ID,FirstName,LastName,Age,Grade,Gender,Course,City
+1,Raj,Sharma,21,A,Male,Computer Science,Delhi
+2,Gagan,Patel,22,B,Male,Mathematics,Mumbai
+3,Shubham,Gupta,20,A,Male,Physics,Kolkata
+4,Deepanshu,Malviya,23,C,Male,Chemistry,Bangalore
+5,Shubh,Yadav,22,B,Male,Engineering,Chennai
+6,Karan,Verma,21,A,Male,Biology,Hyderabad
+7,Yogesh,Reddy,20,A,Male,Computer Science,Pune
+8,Survesh,Jain,22,C,Male,Mathematics,Jaipur
+9,Raj,Sharma,21,B,Male,Physics,Ahmedabad
+10,Gagan,Patel,23,A,Male,Chemistry,Surat
+11,Shubham,Gupta,20,C,Male,Engineering,Lucknow
+4,Deepanshu,Malviya,22,A,Male,Biology,Patna
+13,Shubh,Yadav,21,B,Male,Computer Science,Indore
+14,Karan,Verma,23,A,Male,Mathematics,Chandigarh
+15,Yogesh,Reddy,20,B,Male,Physics,Coimbatore
+16,Survesh,Jain,21,A,Male,Chemistry,Visakhapatnam
+17,Raj,Sharma,22,C,Male,Engineering,Bhopal
+2,Gagan,Patel,21,A,Male,Biology,Kochi
+19,Shubham,Gupta,20,B,Male,Computer Science,Noida
+20,Deepanshu,Malviya,23,A,Male,Mathematics,Gurgaon
