@@ -1,0 +1,23 @@
+[
+    {
+        "Department": "Computer Science",
+        "Grade": "A",
+        "ID": "1",
+        "Age": "21",
+        "Name": "Raj Sharma"
+    },
+    {
+        "Department": "Mathematics",
+        "Grade": "B",
+        "ID": "2",
+        "Age": "22",
+        "Name": "Gagan Patel"
+    },
+    {
+        "Department": "Physics",
+        "Grade": "A",
+        "ID": "3",
+        "Age": "20",
+        "Name": "Shubham Gupta"
+    }
+]
