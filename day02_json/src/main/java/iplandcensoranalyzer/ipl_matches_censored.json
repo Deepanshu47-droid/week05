@@ -1,0 +1,21 @@
+[ {
+  "match_id" : 101,
+  "team1" : "M*** I***",
+  "team2" : "C*** S*** K***",
+  "score" : {
+    "C*** S*** K***" : 182,
+    "M*** I***" : 178
+  },
+  "winner" : "C*** S*** K***",
+  "player_of_match" : "REDACTED"
+}, {
+  "match_id" : 102,
+  "team1" : "R*** C*** B***",
+  "team2" : "D*** C***",
+  "score" : {
+    "D*** C***" : 190,
+    "R*** C*** B***" : 200
+  },
+  "winner" : "R*** C*** B***",
+  "player_of_match" : "REDACTED"
+} ]
