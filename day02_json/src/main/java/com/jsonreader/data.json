@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Deepanshu Malviya",
+    "email": "deepanshu@example.com",
+    "age": 23,
+    "address": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    "skills": ["Java", "Python", "AWS"]
+  },
+  {
+    "name": "Shubham Sharma",
+    "email": "shubham@example.com",
+    "age": 25,
+    "address": {
+      "city": "Indore",
+      "state": "Madhya Pradesh"
+    },
+    "skills": ["C++", "MySQL", "Cloud Computing"]
+  },
+  {
+    "name": "Karan Verma",
+    "email": "karan@example.com",
+    "age": 22,
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "skills": ["JavaScript", "React", "Node.js"]
+  }
+]
