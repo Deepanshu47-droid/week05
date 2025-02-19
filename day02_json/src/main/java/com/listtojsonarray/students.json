@@ -1,0 +1,13 @@
+[ {
+  "name" : "Deepanshu",
+  "age" : 23,
+  "subjects" : [ "Math", "Science" ]
+}, {
+  "name" : "Gagan",
+  "age" : 28,
+  "subjects" : [ "Physics", "Chemistry" ]
+}, {
+  "name" : "Raj",
+  "age" : 30,
+  "subjects" : [ "Biology", "English" ]
+} ]
